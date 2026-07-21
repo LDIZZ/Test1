@@ -1,1 +1,7 @@
-Дизайн-система: цвет кнопки — жёлтый
+# Design System
+
+## Tokens
+color-primary: #0000FF
+
+## Components
+Button — uses color-primary
