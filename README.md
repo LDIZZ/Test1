@@ -1,7 +1,7 @@
 # Design System
 
 ## Tokens
-color-primary: #0000FF
+brand-primary: #0000FF
 
 ## Components
 Button — uses color-primary
